@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "nombre": "Naruto Uzumaki",
+    "rango": "Genin",
+    "aldea": "Hoja",
+    "clan": "Uzumaki",
+    "poder": 9900,
+    "imagen": "https://i.pinimg.com/736x/e6/6b/35/e66b35e486ec89f1d719041b0d43507d.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "Sasuke Uchiha",
+    "rango": "Ninja Renegado",
+    "aldea": "Hoja",
+    "clan": "Uchiha",
+    "poder": 9850,
+    "imagen": "https://i.pinimg.com/originals/4a/50/e9/4a50e93c205e7f14ea5385fb792d1e49.png"
+  },
+  {
+    "id": 3,
+    "nombre": "Kakashi Hatake",
+    "rango": "Jonin",
+    "aldea": "Hoja",
+    "clan": "Hatake",
+    "poder": 3500,
+    "imagen": "https://i.pinimg.com/736x/f6/6a/c3/f66ac3f5c9325d4bfe02e0a426bcd786.jpg"
+  },
+  {
+    "id": 4,
+    "nombre": "Itachi Uchiha",
+    "rango": "Anbu / Akatsuki",
+    "aldea": "Hoja",
+    "clan": "Uchiha",
+    "poder": 4200,
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHQUElxJSyFV1s7hqh1mWcaLYxBqD26fHsjg&s"
+  },
+  {
+    "id": 5,
+    "nombre": "Maito Gai",
+    "rango": "Jonin",
+    "aldea": "Hoja",
+    "clan": "Ninguno",
+    "poder": 9700,
+    "imagen": "https://i.pinimg.com/564x/7d/53/7d/7d537d8fa325c0f7f52f59e6d6cb60c1.jpg"
+  }
+]
